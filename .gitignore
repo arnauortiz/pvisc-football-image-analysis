@@ -1,6 +1,8 @@
 # Folders
 env
 football-players-detection-1
+runs
+videos
 
 # Files
 .env
